@@ -22,40 +22,39 @@ the only requirement is to have an application key registered.
 
 ### Acceptance Criteria
 
-| ID    | Description                                                                  |
-| ----- |------------------------------------------------------------------------------|
-| AC-1  | Must implement responsive design                                             |
-| AC-2  | Must implement BackboneJS, AngularJS or ReactJS                              |
-| AC-3  | Must handle asynchronous calls to the Web API in the better way possible     | 
-| AC-4  | Must run into edge version of Chrome, Firefox and IE (Desktop)               |
-| AC-5  | Must run into at least one mobile device running edge Chrome                 |
+| ID    | Description                                                                 |
+| ----- |-----------------------------------------------------------------------------|
+| AC1  | Must implement responsive design                                             |
+| AC2  | Must implement BackboneJS, AngularJS or ReactJS                              |
+| AC3  | Must handle asynchronous calls to the Web API in the better way possible     | 
+| AC4  | Must run into edge version of Chrome, Firefox and IE (Desktop)               |
+| AC5  | Must run into at least one mobile device running edge Chrome                 |
 
 
 ### Requirements
 
-| ID    | Description                                                                                        |
-| ----- |----------------------------------------------------------------------------------------------------|
-| REQ-1 | As a user I want to see each realm's current status                                                |
-| REQ-2 | As a user I want to input a character name and see basic information about it                      |
-| REQ-3 | As a user I want to see the top 10 players of the Challenge Mode Leaderboard                       |
-| REQ-4 | As a user I want to see the top 10 players of the PvP Leaderboard                                  |
-| REQ-5 | As a user I want to input a guild name and see its basic information                               |
-| REQ-6 | As a user I want to select one of the guild members and see its information                        |
-| REQ-7 | As a user I want to select one of the characters of the Leaderboards and see its basic information |
+| ID    | Description                                                                                       |
+| ----- |---------------------------------------------------------------------------------------------------|
+| REQ1 | As a user I want to see each realm's current status                                                |
+| REQ2 | As a user I want to input a character name and see basic information about it                      |
+| REQ3 | As a user I want to see the top 10 players of the Challenge Mode Leaderboard                       |
+| REQ4 | As a user I want to see the top 10 players of the PvP Leaderboard                                  |
+| REQ5 | As a user I want to input a guild name and see its basic information                               |
+| REQ6 | As a user I want to select one of the guild members and see its information                        |
+| REQ7 | As a user I want to select one of the characters of the Leaderboards and see its basic information |
 
 ### Assumptions
 
-| ID    | Description                                                                                                                                   |
-| ----- |-----------------------------------------------------------------------------------------------------------------------------------------------|
-| AS-1  | **Basic information:** common character information, common items information, all PVP information, guild name and overall stats              |
-| AS-2  | **Common character information:** name, class, race, gender, level, achievement points and thumbnail                                          |
-| AS-3  | **Common items information:** equipped average item level and list of items. For each item some information of your choice.                   |
-| AS-4  | **All PVP information:** Arena 2v2, Arena 3v3, Arena 5v5, RBG rate                                                                            |
-| AS-5  | **Overall stats:** health, power type + power (x mana, x energy as example), strength (str), agility (agi), intelligence (int), stamina (sta) |
-| AS-6  | **Guild basic information:** guild level, members (at least thumbnail, name, class and race)                                                  |
+| ID    | Description                                                                                                                                  |
+| ----- |----------------------------------------------------------------------------------------------------------------------------------------------|
+| AS1  | **Basic information:** common character information, common items information, all PVP information, guild name and overall stats              |
+| AS2  | **Common character information:** name, class, race, gender, level, achievement points and thumbnail                                          |
+| AS3  | **Common items information:** equipped average item level and list of items. For each item some information of your choice.                   |
+| AS4  | **All PVP information:** Arena 2v2, Arena 3v3, Arena 5v5, RBG rate                                                                            |
+| AS5  | **Overall stats:** health, power type + power (x mana, x energy as example), strength (str), agility (agi), intelligence (int), stamina (sta) |
+| AS6  | **Guild basic information:** guild level, members (at least thumbnail, name, class and race)                                                  |
 
 ## What will be evaluated?
 
 - Code quality.
 - Project functionality.
-- 
