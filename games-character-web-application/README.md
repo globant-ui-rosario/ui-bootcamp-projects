@@ -1,4 +1,4 @@
-# Blizzard Character Web Application
+# Games Character Web Application
 
 ## Introduction
 The idea of this project is to evaluate the applicants, to see if they have all the required knowledge related to the 
